@@ -24,6 +24,5 @@ https://yeetus-maximus.github.io/custom-rick-roll/
 
 [![yeetus-maximus stats](https://github-readme-stats.vercel.app/api?username=yeetus-maximus)](https://github.com/yeetus-maximus/github-readme-stats)
 
-![0x08's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeetus-maximus&hide=contribs,prs)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeetus-maximus)](https://github.com/yeetus-maximus/github-readme-stats)
 
